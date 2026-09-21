@@ -1,6 +1,6 @@
 # Alexander Kryukov
 
-Engineer, Belgrade. · Инженер, Белград.
+Applied AI engineer, Belgrade. · Applied AI инженер, Белград.
 
 ### [ace](https://github.com/svezhest/ace)
 

@@ -24,9 +24,9 @@ Local queries to a vector database, frugally.
 
 ### [compact-agent](https://github.com/svezhest/compact-agent)
 
-An attempt at retrieval from a very large corpus with an agent. RESTful-like structured store, waterfill allocation under a context budget, per-task idempotency, small LLMs.
+An attempt at retrieval from a very large corpus with an agent: the questions are fixed in advance as slots, and the agent reads the whole corpus once to fill them. RESTful-like structured store, waterfill allocation under a context budget, per-task idempotency, small LLMs.
 
-Попытка решить задачу ретрива из очень большого объёма данных с помощью агента. RESTful-подобное структурированное хранилище, waterfill-размещение по контекстному бюджету, идемпотентность по задачам, small LLMs.
+Попытка решить задачу ретрива из очень большого объёма данных с помощью агента: вопросы заданы заранее в виде слотов, и агент один раз проходит весь корпус, чтобы их заполнить. RESTful-подобное структурированное хранилище, waterfill-размещение по контекстному бюджету, идемпотентность по задачам, small LLMs.
 
 ---
 

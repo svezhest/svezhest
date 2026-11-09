@@ -2,6 +2,12 @@
 
 Applied AI engineer, Belgrade. · Applied AI инженер, Белград.
 
+### [adapty-hackathon](https://github.com/svezhest/adapty-hackathon)
+
+Resolve: AI support for subscription apps, built with a team at the Adapty hackathon in Belgrade. An in-app agent solves what it can within limits enforced in code; everything else reaches a person already triaged, with ready answers to pick from. My part: the agents and the interface.
+
+Resolve: ИИ-поддержка для приложений с подписками, сделана командой на хакатоне Adapty в Белграде. Агент в приложении решает что может в пределах лимитов, заданных в коде; остальное приходит к человеку уже разобранным, с готовыми ответами на выбор. Моя часть: агенты и интерфейс.
+
 ### [ace](https://github.com/svezhest/ace)
 
 Automatic context engineering: methods for teaching an LLM online, without touching its weights, by working with the context.
